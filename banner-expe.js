@@ -1,4 +1,3 @@
-<script>
 document.addEventListener('DOMContentLoaded', function() {
     // Create the banner
     const banner = document.createElement('div');
@@ -41,4 +40,3 @@ document.addEventListener('DOMContentLoaded', function() {
     // Insert the banner at the start of the body
     document.body.insertBefore(banner, document.body.firstChild);
 });
-</script>
