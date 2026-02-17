@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.body.style.marginTop = '50px'; // Adjust as needed
 
     // Banner text
-    banner.textContent = '🚀 Experimentation terminée 🚀 ';
+    banner.textContent = '\uD83D\uDE80 Experimentation termin\u00E9e \uD83D\uDE80';
 
     // Close button
     const closeBtn = document.createElement('span');
